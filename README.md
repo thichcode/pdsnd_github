@@ -4,7 +4,6 @@
 27/03/2024
 
 ### Project Title
-<<<<<<< HEAD
 Analytics about the bike share service
 
 ### Description
@@ -32,7 +31,6 @@ To use this script, you need to have the bikeshare data files (chicago.csv, new_
 To use this script, you need to have the bikeshare data files (chicago.csv, new_york_city.csv, washington.csv) in the same directory as the script.
 
 ### Credits
-<<<<<<< HEAD
 No credits are required.
 Modified versions by thuongdv2
 
