@@ -151,7 +151,6 @@ def trip_duration_stats(df):
 
     # display total travel time
     
-    # Calculate the total travel time
     total_travel_time = df['Trip Duration'].sum()
 
     print("The total travel time is:", total_travel_time)
@@ -210,6 +209,7 @@ def display_data(df):
                 break
             start_loc += 5
 def main():
+    # loop for user interaction with answer No
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
